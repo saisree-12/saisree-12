@@ -8,4 +8,4 @@
 - 📫 How to reach me **gnanasaisreemandarapu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a>[gnanasaisreemandarapu@gmail.com](https://www.linkedin.com/in/mandarapu-gnana-sai-sree-640393245/)</a>
+<p>gnanasaisreemandarapu@gmail.com</p>

@@ -7,5 +7,4 @@
 
 - 📫 How to reach me **gnanasaisreemandarapu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p>gnanasaisreemandarapu@gmail.com</p>
+

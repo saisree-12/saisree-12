@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gnana Sai Sree Mandarapu</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-- 🌱 I’m currently learning **to be a Software Developer**
+- 🌱 I’m currently **Specialist Programmer at Infosys**
 
 - 👯 I’m looking to collaborate on [..](..)
 

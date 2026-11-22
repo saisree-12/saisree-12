@@ -16,18 +16,56 @@
 
 ## 02. Tech Arsenal
 
-<p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
-  <a href="https://www.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" /><br />
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="42" /><br />
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" /><br />
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="42" /><br />
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="42" /><br />
+<sub><b>FastAPI</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=langchain&theme=dark" width="42" /><br />
+<sub><b>LangChain</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" height="42" /><br />
+<sub><b>LLMs</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="42" /><br />
+<sub><b>SQL</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="42" /><br />
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110" height="85">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" /><br />
+<sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -41,22 +79,6 @@
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saisree-12&theme=tokyonight&hide_border=true" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saisree-12&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-## 🤝 Let's Collaborate
-
-I enjoy working with people who are curious, ambitious, and excited about solving real-world problems.
-
-- 💡 Have an interesting project? Let's talk.
-- 🛠️ Looking for a contributor or collaborator? I'm interested.
-- 💬 Want to connect? Send me an email or open an issue.
-
-<div align="center">
-
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-Message_Me-38BDF8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:gnanasaisreemandarapu@gmail.com)
 
 </div>
 

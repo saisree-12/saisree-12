@@ -14,56 +14,20 @@
 
 ---
 
-## 02. Tech Arsenal
+## 🧰 Languages & Tools
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="42" /><br />
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="42" /><br />
-<sub><b>Java</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" /><br />
-<sub><b>React</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="42" /><br />
-<sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="42" /><br />
-<sub><b>FastAPI</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=langchain&theme=dark" width="42" /><br />
-<sub><b>LangChain</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" height="42" /><br />
-<sub><b>LLMs</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="42" /><br />
-<sub><b>SQL</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="42" /><br />
-<sub><b>Git</b></sub>
-</td>
-<td align="center" width="110" height="85">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="42" /><br />
-<sub><b>Docker</b></sub>
-</td>
-</tr>
-</table>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" /></a>
+<a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
 
 </div>
 
@@ -73,12 +37,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saisree-12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisree-12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=saisree-12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisree-12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=saisree-12&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=saisree-12&theme=tokyonight&hide_border=true" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saisree-12&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=saisree-12&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 

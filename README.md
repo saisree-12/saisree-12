@@ -14,20 +14,56 @@
 
 ---
 
-## 🧰 Languages & Tools
+## ⚡ Digital Craft Kit
 
 <div align="center">
 
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
-<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" /></a>
-<a href="https://www.microsoft.com/"><img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" alt="LLMs" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+<table>
+<tr>
+<td align="center" width="110" height="90" style="border-radius:12px">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" /><br />
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" /><br />
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" /><br />
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" /><br />
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="44" /><br />
+<sub><b>FastAPI</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110" height="90">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="44" /><br />
+<sub><b>LangChain</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://cdn.simpleicons.org/openai/412991" width="44" /><br />
+<sub><b>LLMs</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44" /><br />
+<sub><b>SQL</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" /><br />
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110" height="90">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="44" /><br />
+<sub><b>Docker</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 

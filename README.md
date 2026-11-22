@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td align="center" width="110" height="90" style="border-radius:12px">
+<td align="center" width="110" height="90">
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" /><br />
 <sub><b>Python</b></sub>
 </td>
